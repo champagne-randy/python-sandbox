@@ -1,0 +1,812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"console"
+			],
+			[
+				"m",
+				"mSum"
+			],
+			[
+				"fi",
+				"fibonacciHuge"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"get",
+				"getFibSumMod10Period"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"ge",
+				"getPisanoPeriod"
+			],
+			[
+				"pisa",
+				"pissano"
+			],
+			[
+				"pi",
+				"pissanoult"
+			],
+			[
+				"pis",
+				"pisano"
+			],
+			[
+				"mem",
+				"memUsage"
+			],
+			[
+				"res",
+				"resArr"
+			],
+			[
+				"max",
+				"maxMemory"
+			],
+			[
+				"me",
+				"memUsage"
+			],
+			[
+				"st",
+				"startMem"
+			],
+			[
+				"ma",
+				"maxExecTime"
+			],
+			[
+				"sta",
+				"startTime"
+			],
+			[
+				"com",
+				"complexity"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"module",
+				"modules"
+			],
+			[
+				"a",
+				"async"
+			],
+			[
+				"timer",
+				"timerID"
+			],
+			[
+				"clear",
+				"clearTimeout"
+			],
+			[
+				"run",
+				"runTest"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"cle",
+				"clearTimeout"
+			],
+			[
+				"on",
+				"onRejected"
+			],
+			[
+				"se",
+				"setTimeout"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"exe",
+				"execTime"
+			],
+			[
+				"_ou",
+				"_outputDir"
+			],
+			[
+				"dis",
+				"distDir"
+			],
+			[
+				"uti",
+				"utilsDir"
+			],
+			[
+				"rea",
+				"readJsonFile"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"d",
+				"dedupe"
+			],
+			[
+				"tar",
+				"targetFile"
+			],
+			[
+				"generate",
+				"generated"
+			],
+			[
+				"ou",
+				"outFileName"
+			],
+			[
+				"is",
+				"isArray"
+			],
+			[
+				"bin",
+				"bin"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"cop",
+				"copytemplates"
+			],
+			[
+				"new",
+				"newComment"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"dict",
+				"dictionary"
+			],
+			[
+				"up",
+				"updating"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"Appd",
+				"appending"
+			],
+			[
+				"squ",
+				"square_list"
+			],
+			[
+				"sq",
+				"square_list"
+			],
+			[
+				"star",
+				"start_list"
+			],
+			[
+				"duck",
+				"duck_index"
+			],
+			[
+				"du",
+				"duck_index"
+			],
+			[
+				"Du",
+				"duck_index"
+			],
+			[
+				"appe",
+				"appending"
+			],
+			[
+				"zoo",
+				"zoo_animals"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"my",
+				"my_int"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ar",
+				"article\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"pr",
+				"protocol"
+			],
+			[
+				"pa",
+				"parsedUrl"
+			],
+			[
+				"__",
+				"__proto__"
+			],
+			[
+				"ro",
+				"robot"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"p",
+				"pipe"
+			],
+			[
+				"ta",
+				"task"
+			],
+			[
+				"js",
+				"jsOut"
+			],
+			[
+				"path",
+				"paths"
+			],
+			[
+				"lint",
+				"lint-js"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git: l",
+		"selected_items":
+		[
+			[
+				"git: l",
+				"Git: Log Current File"
+			],
+			[
+				"git:",
+				"Git: Gui"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"LESS",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"Package Control: LESS",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rchampa2/Desktop/dev/learning/python"
+	],
+	"file_history":
+	[
+		"/Users/rchampa2/Dropbox/_work/randyChampagne/finances/Taxes/software/activation-code.txt",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/ROADMAP.md",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/.babelrc",
+		"/Users/rchampa2/Desktop/dev/projects/_on hold/theVaanGroup/_subl/theVaanGroup.sublime-workspace",
+		"/Users/rchampa2/Desktop/dev/projects/_on hold/theVaanGroup/_subl/theVaanGroup.sublime-project",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/package.json",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/gulpfile.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_huge/fibonacciHuge-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/_templates/modules/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/_templates/modules/stub-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/node_modules/.bin/_mocha",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_huge/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/.gitignore",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_partial_sum/fibonacciPartialSum-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/node_modules/.bin/mocha",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/node_modules/.bin/gulp",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_partial_sum/fibonacciPartialSum-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_partial_sum/naive.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_partial_sum/fast.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_partial_sum/getPartialFibSumMod10Period.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_partial_sum/_starter/fibonacci_partial_sum.cpp",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_partial_sum/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_sum_last_digit/fibonacciSumLastDigit-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_sum_last_digit/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_sum_last_digit/fibonacciSumLastDigit-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_sum_last_digit/fast.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_sum_last_digit/getFibSumMod10Period.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_huge/fast.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_huge/getPisanoPeriod.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_sum_last_digit/naive.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_last_digit/naive.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_last_digit/fast.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_sum_last_digit/_starter/fibonacci_sum_last_digit.cpp",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_huge/naive.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_huge/fibonacciHuge-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_huge/_sandbox.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci/fast.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_huge/_starter/fibonacci_huge.cpp",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/_templates/modules/stub-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/_templates/unitTest/stub-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/_templates/stressTest/stub-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/_templates/modules/naive.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/lcm/lcm-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/lcm/fast.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/gcd/fast.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/lcm/lcm-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/lcm/_starter/lcm.cpp",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/lcm/naive.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/gcd/naive.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/_templates/modules/fast.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/lcm/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/gcd/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/gcd/gcd-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/gcd/gcd-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/gcd/_starter/gcd.cpp",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_last_digit/fibonacciLastDigit-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_last_digit/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_last_digit/_starter/fibonacci_last_digit.cpp",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci_last_digit/fibonacciLastDigit-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci/fibonacci-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci/naive.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci/fibonacci-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w1/max-pairwise-product/maxPairwiseProduct-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci/_starter/fibonacci.cpp",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacci/fibonacciNumbers-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/_sandbox/unitTestWBoundedExecutionTime.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w1/max-pairwise-product/naive.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w1/max-pairwise-product/maxPairwiseProduct-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w1/APlusB/APlusB-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w1/APlusB/APlusB.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/algo1/w2/fibonacciNumbers/fibonacciNumbers-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/_sandbox/timeComplexityUtility-v2.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w1/max-pairwise-product/maxPairwiseProduct-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w1/max-pairwise-product/maxPairwiseProduct-spec.es6.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/1_algorithmicToolbox/w2/fibonacciNumbers/fibonacciNumbers-spec.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/1_algorithmicToolbox/w1/max-pairwise-product/maxPairwiseProduct-spec.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/utils/data/createSnippet.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/codility/1_iterations/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/utils/data/dedupe.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w1/APlusB/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w1/max-pairwise-product/fast.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w1/max-pairwise-product/naive.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w1/max-pairwise-product/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/utils/generators/set/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/utils/io/reader/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/utils/io/reader/readJsonFile.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/_templates/stressTest/stub-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/_templates/unitTest/stub-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/1_algorithmicToolbox/w1/max-pairwise-product/maxPairwiseProduct-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/1_algorithmicToolbox/w2/fibonacciNumbers/fibonacciNumbers-stress.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/_templates/stressTest/_archive/_stressTestTemplate.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/1_algorithmicToolbox/w1/APlusB/testAPlusB.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/utils/generators/set/integers.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/.jshintrc",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/jshint-spec.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/dist/1_algorithmicToolbox/w1/max-pairwise-product/fast.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w2/fibonacciNumbers/README.md",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w2/fibonacciNumbers/main.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/_sandbox/unitTest/stub-spec.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/1_algorithmicToolbox/w2/fibonacciNumbers/stressTest.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/_sandbox/stressTest/stressTest-stub.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/1_algorithmicToolbox/w1/max-pairwise-product/naive-spec.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/1_algorithmicToolbox/w1/max-pairwise-product/stressTest.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/README.md",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/sandbox/timeComplexityUtility-v2.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/sandbox/timeComplexityUtility-v3.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/sandbox/timeComplexityUtility.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/sandbox/experimentOnTimers.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/sandbox/timeComplexityUtility.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/dist/utils/io/reader/readJsonFile.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/_output/testInputFile.json",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/utils/io/fileReader.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/utils/data-manipulation/dedupe.es6",
+		"/Users/rchampa2/.bash_profile",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/_output/integerSet-1475606459518.json",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/_output/integerSet.json",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w1/max-pairwise-product/README.md",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/stressTests/_stressTestTemplate.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/1_algorithmicToolbox/w1/max-pairwise-product/naive.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w1/max-pairwise-product/_starter/max_pairwise_product.py",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/dist/utils/generators/set/integers.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/utils/set-generators/integer.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/1_algorithmicToolbox/w1/APlusB/testMaxPairwise.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/test/codility/BinaryGap/BinaryGap-spec.js",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w1/APlusB/APlusB.es6",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/modules/1_algorithmicToolbox/w1/APlusB/README.md",
+		"/Users/rchampa2/Desktop/dev/learning/Coursera/algorithms/dist/1_algorithmicToolbox/w1/APlusB/APlusB.js"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			"<current file>,<open folders>,/Users/rchampa2/Desktop/dev/resources/_development environments/wordpress/dev/scotch box/public/wp-content/themes/Parallax-One",
+			"<current file>,<open folders>",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"blue",
+			"var",
+			"'!modules/**/*-stress.es6',",
+			"log",
+			"naive",
+			",sol,fast);",
+			"n",
+			",m,sol,naive);",
+			"nPeriod",
+			"getFibSumMod10Period",
+			"long long ",
+			"from",
+			"to",
+			"(n)",
+			"n",
+			"N",
+			"fibonacci_sum_last_digit",
+			"fibonacciPartialSum(n)",
+			"fibonacciSumLastDigit",
+			"2",
+			"fibonacci_sum_last_digit",
+			"fibonacciPartialSum(n)",
+			"fibonacciSumLastDigit",
+			"naive(n)",
+			"fast",
+			"fibonacci_sum_last_digit",
+			"fibonacciPartialSum(n)",
+			"(n)",
+			"fibonacciSumLastDigit",
+			"naive",
+			"period period",
+			"pisano",
+			"getPisanoPeriod",
+			"naive",
+			"sample 2",
+			",sol,naive",
+			"sol,naive",
+			"o",
+			"w2/fibonacci_huge",
+			"n,m",
+			"fibonacciHuge",
+			"w2/fibonacci_huge",
+			"n,m",
+			"fibonacciHuge",
+			"a",
+			"fibonacci_huge",
+			"fibonacciSumLastDigit(n,m)",
+			"fibonacciHuge",
+			"=",
+			"i",
+			"304",
+			"ToDo",
+			"sol,naive);",
+			"pissano",
+			"res",
+			" n & m 1",
+			"sample 3",
+			"long long",
+			"var ",
+			"lcm",
+			"2",
+			"fibonacci_huge",
+			"a,",
+			"b",
+			"a",
+			"B",
+			"A",
+			"fibonacci_huge",
+			"LCM(n)",
+			"LCM",
+			"a",
+			"LCM",
+			"lcm",
+			"LCM",
+			"(2e9).toFixed();",
+			"gcd",
+			"sol,naive",
+			"sample 2",
+			"==",
+			"(2e9).toFixed();",
+			"w2/gcd",
+			"GCD",
+			"w2/gcd/",
+			"GCD",
+			"gcd",
+			" $",
+			" ",
+			"case 8",
+			"case 7",
+			"case 5",
+			"case 4",
+			"case 3",
+			"case 2",
+			"case 1",
+			"integer overflow",
+			"EuclidGCD",
+			"a′",
+			"sol,naive);",
+			"naive",
+			"==",
+			"int",
+			"w2/fibonacci_last_digit/",
+			"fib",
+			"/w2/fibonacci_last_digit/",
+			"fibonacciLastDigit",
+			"// ",
+			",sol,naive);",
+			"naive",
+			"fast",
+			"n",
+			"root5",
+			"n,sol,naive);",
+			"-t 500",
+			"n,sol,naive)",
+			"fast",
+			"naive",
+			"n =",
+			"resArr",
+			"0",
+			"int",
+			"var",
+			"fibonacciLastDigit",
+			"fibonacci",
+			"algo1/w2/Fibonacci",
+			"algo1/w2/fibonacci/",
+			"let",
+			"var",
+			"'algo1/w1/max-pairwise-product/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"algo1",
+			"git rm ",
+			"dish",
+			"col-xs-12 col-sm-3 col-md-2",
+			"col-xs-12 col-sm-3 col-md-2 col-md-offset-2",
+			"col-xs-12 col-sm-3 col-md-2",
+			"col-xs-12 col-sm-3 col-md-1",
+			"col-xs-12 col-sm-3 col-md-3",
+			"col-xs-12 col-sm-3 col-md-2",
+			"col-sm-1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "python.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 719.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
